@@ -4,4 +4,4 @@ Welcome to my writing smaples repository. Here I have made available a translate
 * This version of my BA thesis does not include the appendix nor some IRFs in order to avoid exceeding the 20 pages limit, including references.
 * I modified letter size and margins in order to make the thesis 30 pages long (references, acknowledgements, index, and cover page included) in order for it to fit within 30 pages.
 
-I hope you find these files helpful.
+I want to note that my BA thesis is a theoretically stronger model, being a DSGE model, while my MSc thesis is more applied in nature, being on the use of Neural Networks for inflation forcasting. I hope you find these files helpful.
